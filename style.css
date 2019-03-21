@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(5, 221, 149);
+}
+
+h1{
+    color:white;
+    text-align: center;
+}
+
+.friend{
+    background-color: azure;
+}
+h3{
+    text-transform: uppercase;
+}
